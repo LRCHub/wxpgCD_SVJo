@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "名もなき感情",
+  "base_artist": "ウソツキ",
+  "createdAt": "2026-02-14T09:48:46.548259Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "名もなき感情",
+      "artist": "ウソツキ",
+      "has_synced": false,
+      "path": "select/pl_01_名もなき感情_ウソツキ.txt"
+    }
+  ]
+}
